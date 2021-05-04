@@ -1,5 +1,5 @@
 # 2DUnityTankGame
-2D UNITY Basic Tank Game 
+2D UNITY Basic Tank Game C# 
 Tank Game with 3 scenes(start-main-end):
 
 INFO:
